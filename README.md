@@ -1,4 +1,4 @@
-# weather
+# Weather Mobile App
 - This is a front end React Native app developed by me to check weather of a particular city.
 - Here in the search bar you can search for the city and can check the weather.
 - This app is supported in both IOS and android.
